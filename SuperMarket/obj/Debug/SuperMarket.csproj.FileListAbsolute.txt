@@ -1,0 +1,21 @@
+C:\Users\angel\source\repos\SuperMarket\SuperMarket\bin\Debug\SuperMarket.exe.config
+C:\Users\angel\source\repos\SuperMarket\SuperMarket\bin\Debug\SuperMarket.exe
+C:\Users\angel\source\repos\SuperMarket\SuperMarket\bin\Debug\SuperMarket.pdb
+C:\Users\angel\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.csprojAssemblyReference.cache
+C:\Users\angel\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.exe
+C:\Users\angel\source\repos\SuperMarket\SuperMarket\obj\Debug\SuperMarket.pdb
+C:\Users\AlQesar\Desktop\Super-Market-C--Console-App-main\SuperMarket\bin\Debug\SuperMarket.exe.config
+C:\Users\AlQesar\Desktop\Super-Market-C--Console-App-main\SuperMarket\bin\Debug\SuperMarket.exe
+C:\Users\AlQesar\Desktop\Super-Market-C--Console-App-main\SuperMarket\bin\Debug\SuperMarket.pdb
+C:\Users\AlQesar\Desktop\Super-Market-C--Console-App-main\SuperMarket\obj\Debug\SuperMarket.csprojAssemblyReference.cache
+C:\Users\AlQesar\Desktop\Super-Market-C--Console-App-main\SuperMarket\obj\Debug\SuperMarket.csproj.CoreCompileInputs.cache
+C:\Users\AlQesar\Desktop\Super-Market-C--Console-App-main\SuperMarket\obj\Debug\SuperMarket.exe
+C:\Users\AlQesar\Desktop\Super-Market-C--Console-App-main\SuperMarket\obj\Debug\SuperMarket.pdb
+C:\Users\AlQesar\Desktop\محمد قايد\superMarket\SuperMarket\bin\Debug\SuperMarket.exe.config
+C:\Users\AlQesar\Desktop\محمد قايد\superMarket\SuperMarket\bin\Debug\SuperMarket.exe
+C:\Users\AlQesar\Desktop\محمد قايد\superMarket\SuperMarket\bin\Debug\SuperMarket.pdb
+C:\Users\AlQesar\Desktop\محمد قايد\superMarket\SuperMarket\obj\Debug\SuperMarket.csprojAssemblyReference.cache
+C:\Users\AlQesar\Desktop\محمد قايد\superMarket\SuperMarket\obj\Debug\SuperMarket.csproj.CoreCompileInputs.cache
+C:\Users\AlQesar\Desktop\محمد قايد\superMarket\SuperMarket\obj\Debug\SuperMarket.exe
+C:\Users\AlQesar\Desktop\محمد قايد\superMarket\SuperMarket\obj\Debug\SuperMarket.pdb
